@@ -1,6 +1,6 @@
 {
   "name": "douyin-social-media-search",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "实时搜索国内社媒之抖音的公开内容，快速返回视频、图文等作品的内容信息、互动数量、趋势或评论等数据。当用户要查品牌、话题、事件或内容在抖音社媒上的公开表现时使用。",
   "keywords": [
     "douyin",
